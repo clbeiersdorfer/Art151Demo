@@ -1,0 +1,21 @@
+/* Style for the page layout */
+body {
+    height: 3000px; /* Add height to the body to make scrolling visible */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.content-section {
+    text-align: center;
+    margin-top: 1000px;
+}
